@@ -1,8 +1,8 @@
 # coop_scheduler
 
-A new Flutter project.
+Flutter + firebase project for WMAD, sem 5 2026
 
-## Getting Started
+## Getting Started (Left as default)
 
 This project is a starting point for a Flutter application.
 
