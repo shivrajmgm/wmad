@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189062975442",
+    "project_id": "wmad-coop-project",
+    "storage_bucket": "wmad-coop-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189062975442:android:3d2228657f17d1a547020b",
+        "android_client_info": {
+          "package_name": "com.example.coop_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-cLd8aWSJtkqaC7rIDKvBA6S1HOtj3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
